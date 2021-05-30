@@ -1,0 +1,11 @@
+[package]
+name = "asyncdemo"
+version = "0.1.0"
+edition = "2018"
+
+[[bin]]
+name = "asyncdemo"
+path = "asyncdemo.rs"
+
+[dependencies]
+futures = "0.3"
