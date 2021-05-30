@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 "use strict"
 
 function return_number_async(n) {
